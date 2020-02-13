@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "sgoodm"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Seth Goodman"
 description              : &description "Data Engineer at AidData"
