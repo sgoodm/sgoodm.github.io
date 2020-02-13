@@ -1,7 +1,7 @@
 ---
 title: "GeoQuery: Integrating HPC systems and public web-based geospatial data tools"
 collection: publications
-permalink: /publications/paper_03
+permalink: /publication/paper_03
 excerpt: 'GeoQuery: Integrating HPC systems and public web-based geospatial data tools'
 date: 2019-01-01
 venue: 'Computers & Geosciences'
