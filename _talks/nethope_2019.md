@@ -4,7 +4,7 @@ collection: talks
 type: "talks"
 permalink: /talks/nethope_2019
 venue: "Nethope Summit"
-date: 2019
+date: 2019-10-01
 location: "San Juan, Puerto Rico"
 ---
 
