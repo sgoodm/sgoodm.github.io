@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Seth Goodman"
-excerpt: "About me"
+excerpt: "Geospatial Data Engineer"
 author_profile: true
 redirect_from:
   - /about/
