@@ -6,14 +6,14 @@ main:
   - title: "Talks"
     url: /talks/
 
+  - title: "CV"
+    url: https://docs.google.com/document/d/1aBd8Pej62IHS6v2hLsdRzLTzlB4YHp8YrnfHYYjuaL8
+
   # - title: "Teaching"
   #   url: /teaching/
 
   # - title: "Portfolio"
   #   url: /portfolio/
-
-   - title: "CV"
-    url: https://docs.google.com/document/d/1aBd8Pej62IHS6v2hLsdRzLTzlB4YHp8YrnfHYYjuaL8
 
  # - title: "Blog Posts"
     # url: /year-archive/
