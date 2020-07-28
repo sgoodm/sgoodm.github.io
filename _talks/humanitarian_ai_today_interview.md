@@ -1,5 +1,5 @@
 ---
-title: "Humanitarian AI Today Interview
+title: "Humanitarian AI Today Interview"
 collection: talks
 type: "talks"
 permalink: /talks/humanitarian_ai_today_interview
