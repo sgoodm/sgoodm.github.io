@@ -1,14 +1,14 @@
 ---
-title: "A convolutional neural network approach to predict non‐permissive environments from moderate‐resolution imagery"
+title: "Exploring the Socioeconomic Co-benefits of Global Environment Facility Projects in Uganda using a Quasi-experimental Geospatial Interpolation (QGI) Approach"
 collection: publications
 permalink: /publication/paper_04
-excerpt: 'A convolutional neural network approach to predict non‐permissive environments from moderate‐resolution imagery'
-date: 2020-07-13
-venue: 'Transactions in GIS'
-paperurl: 'https://doi.org/10.1111/tgis.12661'
-citation: 'Goodman, S, BenYishay, A, Runfola, D. A convolutional neural network approach to predict non‐permissive environments from moderate‐resolution imagery. Transactions in GIS. 2020; 00: 1– 18.'
+excerpt: 'Exploring the Socioeconomic Co-benefits of Global Environment Facility Projects in Uganda using a Quasi-experimental Geospatial Interpolation (QGI) Approach'
+date: 2020-02-13
+venue: 'Sustainability'
+paperurl: 'https://www.mdpi.com/2071-1050/12/8/3225/htm'
+citation: 'Runfola, D.,  Baatra, G., Anand, A., Way, A., Goodman, S. 2020. Exploring the Socioeconomic Co-benefits of Global Environment Facility Projects in Uganda using a Quasi-experimental Geospatial Interpolation (QGI) Approach. Sustainability, Special Issue: Environment-Poverty Nexus and Sustainable Development, 12(8), 3225.'
 ---
 
-[Download paper here](https://doi.org/10.1111/tgis.12661)
+[Download paper here](https://www.mdpi.com/2071-1050/12/8/3225/htm)
 
-Convolutional neural networks (CNNs) trained with satellite imagery have been successfully used to generate measures of development indicators, such as poverty, in developing nations. This article explores a CNN‐based approach leveraging Landsat 8 imagery to predict locations of conflict‐related deaths. Using Nigeria as a case study, we use the Armed Conflict Location & Event Data (ACLED) dataset to identify locations of conflict events that did or did not result in a death. Imagery for each location is used as an input to train a CNN to distinguish fatal from non‐fatal events. Using 2014 imagery, we are able to predict the result of conflict events in the following year (2015) with 80% accuracy. While our approach does not replace the need for causal studies into the drivers of conflict death, it provides a low‐cost solution to prediction that requires only publicly available imagery to implement. Findings suggest that the information contained in moderate‐resolution imagery can be used to predict the likelihood of a death due to conflict at a given location in Nigeria the following year, and that CNN‐based methods of estimating development‐related indicators may be effective in applications beyond those explored in the literature.
+Since 1992, the Global Environment Facility (GEF) has mobilized over $131 billion in funds to enable developing and transitioning countries to meet the objectives of international environmental conventions and agreements. While multiple studies and reports have sought to examine the environmental impact of these funds, relatively little work has examined the potential for socioeconomic co-benefits. Leveraging a novel database on the geographic location of GEF project interventions in Uganda, this paper explores the impact of GEF projects on household assets in Uganda. It employs a new methodological approach, Quasi-experimental Geospatial Interpolation (QGI), which seeks to overcome many of the core biases and limitations of previous implementations of causal matching studies leveraging geospatial information. Findings suggest that Sustainable Forest Management (SFM) GEF projects with initial implementation dates prior to 2009 in Uganda had a positive, statistically significant impact of approximately $184.81 on the change in total household assets between 2009 and 2011. Leveraging QGI, we identify that (1) this effect was statistically significant at distances between 2 and 7 km away from GEF projects, (2) the effect was positive but not statistically significant at distances less than 2 km, and (3) there was insufficient evidence to establish the impact of projects beyond a distance of approximately 7 km.
