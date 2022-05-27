@@ -1,10 +1,15 @@
 # main links links
 main:
+
+ - title: "Posts"
+    url: /year-archive/
+
+
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/
+  # - title: "Talks"
+  #   url: /talks/
 
   - title: "CV"
     url: https://docs.google.com/document/d/1aBd8Pej62IHS6v2hLsdRzLTzlB4YHp8YrnfHYYjuaL8
@@ -15,8 +20,6 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
 
- # - title: "Blog Posts"
-    # url: /year-archive/
 
   # - title: "Guide"
     # url: /markdown/

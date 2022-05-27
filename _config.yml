@@ -28,11 +28,11 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
-  commitMessage          : "New comment."
+  branch                 : "master" # "master", "gh-pages"
+  commitMessage          : "Update."
   filename               : comment-{@timestamp}
   format                 : "yml"
   moderation             : true
@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Seth Goodman"
   avatar           : "https://avatars1.githubusercontent.com/u/9094862?s=460&v=4"
-  bio              : "Data Engineer at AidData"
+  bio              : "Research Scientist & Data Engineer at AidData"
   location         : "Williamsburg, VA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=a0hmmJ4AAAAJ&hl=en"
@@ -98,7 +98,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "sgoodm"
   orcid            :
   pinterest        :
   soundcloud       :
