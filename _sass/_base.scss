@@ -21,6 +21,10 @@ table {
     }
 }
 
+.news-date{
+  width: 100px;
+}
+
 a, table.table a {
   color: var(--global-theme-color);
   &:hover {
