@@ -8,7 +8,6 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>Williamsburg, VA</p>
 
 
 news: true  # includes a list of news items
