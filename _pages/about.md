@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a research scientist and data engineer at [AidData](https://aiddata.org), a research lab based out of the Global Research Institute at William & Mary.  My work involves improving the accessibility of geospatial data, as well as designing and operationalizing novel research methods which leverage geospatial data, machine learning, and distributed computing.  I received a BS and MS in Electrical Engineering at Villanova University, and a Ph.D. in Computational Geography at William & Mary.
+I am a research scientist and data engineer at [AidData](https://aiddata.org), a research lab based out of the Global Research Institute at William & Mary.  My work involves improving the accessibility of geospatial data, as well as designing and operationalizing novel research methods which leverage geospatial data, machine learning, and distributed computing.  I completed a BS and MS in Electrical Engineering at Villanova University, and a Ph.D. in Computational Geography at William & Mary.
+
+
 
 <!--
 Across my work I focus on well-designed software, replicable research, and scalable approaches. Examples of my work include:
